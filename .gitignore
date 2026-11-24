@@ -1,0 +1,8 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore secrets!
+.env
+
+# Ignore local database
+data/
